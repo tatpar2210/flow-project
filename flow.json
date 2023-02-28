@@ -31,9 +31,12 @@
 			"address": "f8d6e0586b0a20c7",
 			"key": "55fb880e9457787ab09f028cac73fc0435bcfbac3dcb1c50d5af3e2fcdeb66d2"
 		},
+		"tatpar": {
+			"fromFile": "tatpar.private.json"
+		},
 		"testnet": {
-			"address": "4fb7ceab32494c8d",
-			"key": "a3a46c6576c0dc997b0572e316572ca74de4348ad9e91e478d2fc8b1c60f7423"
+			"address": "82075edca2872cca",
+			"key": "c365523d9674509834d7af2b47df55a9fff5abe1aa369a0bfc998db21d21d1c2"
 		}
 	},
 	"deployments": {
