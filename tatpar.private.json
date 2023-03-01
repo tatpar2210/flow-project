@@ -1,0 +1,14 @@
+{
+	"accounts": {
+		"tatpar": {
+			"address": "82075edca2872cca",
+			"key": {
+				"type": "hex",
+				"index": 0,
+				"signatureAlgorithm": "ECDSA_P256",
+				"hashAlgorithm": "SHA3_256",
+				"privateKey": "c365523d9674509834d7af2b47df55a9fff5abe1aa369a0bfc998db21d21d1c2"
+			}
+		}
+	}
+}
